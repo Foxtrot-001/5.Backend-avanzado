@@ -1,5 +1,7 @@
 Gestión de Artículos y Tickets en Supermercado
+
 Descripción general
+
 Este repositorio contiene el código fuente para el sistema de gestión de artículos y tickets en el supermercado. El sistema permite a los empleados registrar y gestionar información de artículos, así como crear y gestionar tickets para los clientes que realizan compras en el supermercado. Además, el sistema puede calcular el subtotal, IVA y total de un ticket, y actualizar las existencias de los artículos al actualizar un ticket.
 
 Requisitos
